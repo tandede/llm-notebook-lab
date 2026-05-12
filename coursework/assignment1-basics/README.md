@@ -168,4 +168,3 @@ A3: 编辑get train data.py文件中__main__里面的build_random_data_bin()函�
 **Q4：支持训练的设备有哪些？**
 
 A4：第一版代码支持CPU和CUDA GPU训练。感谢[@aimetrics](https://github.com/aimetrics)增加MPS（Apple设备）支持，当前训练代码的设备优先级：CUDA > MPS > CPU。
-

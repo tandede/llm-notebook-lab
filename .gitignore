@@ -101,6 +101,10 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Experiment outputs
+wandb/
+*.wandb
+
 # IPython
 profile_default/
 ipython_config.py
